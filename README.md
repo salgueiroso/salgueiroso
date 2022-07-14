@@ -1,7 +1,13 @@
 ### Hi there 👋, I'm Acacio Salgueiro!
 ###### *Developer and DevSecOps*
 
-Acacio Salgueiro, Red Hat’s Director of Developer Experience, is a Java Champion and a Microsoft MVP. He is also a published author and a frequent speaker at international conferences, discussing Java, Kubernetes, Quarkus, Microservices, Cloud Computing, and DevOps.
+Acacio Salgueiro is Bachelor in Computer Science - By Tiradentes University. Participates in regional groups and events focused on the technology culture of the DevOps and IaC ecosystem. Works with Kubernetes, Microservices, Cloud Computing, and DevOps.
+
+Senior Developer with over 14 years of experience in creating and maintaining cloud infrastructure and servers for container services, websites, providers, api services, Linux Red Rat servers and DBMS.
+
+skills
+
+DevOps | IaC | Python | Ruby | .Net Framework | Net Core | PHP | Java | Flutter | TypeScript | Android and iOS | Sql Server | Oracle | C++
 
 Salgueiro believes that everything we do, big or small, matters - and that we can all create a better world for people with better software. His life’s purpose is to deliver good software and to help developers worldwide in delivering better software faster and reliably. Today his job, his hobby, and his life’s purpose are the same thing: and he’s happy that he found his [Ikigai](https://en.wikipedia.org/wiki/Ikigai).
 
