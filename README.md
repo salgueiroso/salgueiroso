@@ -17,7 +17,9 @@ Salgueiro believes that everything we do, big or small, matters - and that we ca
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tutotec.com.br)  
 
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=salgueiroso&show_icons=true&&count_private=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=salgueiroso&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salgueiroso&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salgueiroso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **salgueiroso/salgueiroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
