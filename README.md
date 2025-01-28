@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Acacio Salgueiro!
-###### *Developer and DevSecOps*
+###### *Software Engineer and SRE/DevSecOps*
 
 Acacio Salgueiro is Bachelor in Computer Science - By Tiradentes University. Participates in regional groups and events focused on the technology culture of the DevOps and IaC ecosystem. Works with Kubernetes, Microservices, Cloud Computing, and DevOps.
 
