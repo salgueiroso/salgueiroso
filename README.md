@@ -1,6 +1,4 @@
-# salgueiroso
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=salgueiroso.readme&left_color=royalblue&right_color=black)
+# salgueiroso ![visitors](https://visitor-badge.laobi.icu/badge?page_id=salgueiroso.readme&left_color=royalblue&right_color=black)
 
 ## Hi there 👋, I'm Acacio Salgueiro
 
