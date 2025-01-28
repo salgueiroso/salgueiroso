@@ -1,5 +1,7 @@
 # salgueiroso
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=salgueiroso.readme&left_color=royalblue&right_color=black)
+
 ## Hi there 👋, I'm Acacio Salgueiro
 
 ### *Software Engineer and SRE/DevSecOps*
@@ -8,7 +10,9 @@ Acacio Salgueiro is Bachelor in Computer Science - By Tiradentes University. Par
 
 Senior Developer with over 14 years of experience in creating and maintaining cloud infrastructure and servers for container services, websites, providers, api services, Linux Red Rat servers and DBMS.
 
-skills
+### :hammer_and_wrench: Languages and Tools
+
+![Skills and tools](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,cpp,cmake,docker,git,github,githubactions,gitlab,js,linux,postgres,py,dotnet,androidstudio,angular,ansible,apple,bash,bitbucket,bootstrap,c,cs,cloudflare,css,dart,debian,dynamodb,fastapi,flask,firebase,flutter,grafana,graphql,haskell,java,jenkins,jest,kafka,kali,laravel,latex,less,sass,md,materialui,mongodb,mysql,nginx,nodejs,npm,opencv,php,postman,powershell,prometheus,qt,react,redux,redhat,reactivex,regex,sqlite,sklearn,selenium,svg,tensorflow,terraform,ts,visualstudio,vscode,vue,webpack,wordpress,yarn)
 
 DevOps | IaC | Python | Ruby | .Net Framework | Net Core | PHP | Java | Flutter | TypeScript | Android and iOS | Sql Server | Oracle | C++
 
